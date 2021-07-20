@@ -1,0 +1,352 @@
+show 802.11
+show 802.11 cleanair
+show 802.11 cleanair air-quality summary
+show 802.11 cleanair air-quality worst
+show 802.11 cleanair device ap
+show 802.11 cleanair device type
+show 802.11 cu-metrics
+show 802.11 extended
+show 802.11 media-stream
+show aaa auth
+show acl
+show acl detailed
+show acl url-acl detailed
+show acl summary
+show acl url-acl summary
+show advanced 802.11 channel
+show advanced 802.11 coverage
+show advanced 802.11 group
+show advanced hyperlocation summary
+show advanced hyperlocation ble-beacon
+show advanced 802.11 l2roam
+show advanced 802.11 logging
+show advanced 802.11 monitor
+show advanced 802.11 optimized roaming
+show advanced 802.11 profile
+show advanced 802.11 receiver
+show advanced 802.11 summary
+show advanced 802.11 txpower
+show advanced backup-controller
+show advanced dot11-padding
+show advanced hotspot
+show advanced max-1x-sessions
+show advanced probe
+show advanced rate
+show advanced timers
+show advanced client-handoff
+show advanced eap
+show advanced fra
+show advanced send-disassoc-on-handoff
+show advanced sip-preferred-call-no
+show advanced sip-snooping-ports
+show arp kernel
+show arp switch
+show ap auto-rf
+show ap aid-audit-mode
+show ap ccx rm
+show ap cdp
+show ap channel
+show ap config
+show ap config general
+show ap config global
+show ap core-dump
+show ap crash-file
+show ap data-plane
+show ap dtls-cipher-suite
+show ap ethernet tag
+show ap eventlog
+show ap flexconnect
+show ap image
+show ap image status
+show ap inventory
+show ap join stats detailed
+show ap join stats summary
+show ap join stats summary all
+show ap led-state
+show ap led-flash
+show ap link-encryption
+show ap max-count summary
+show ap monitor-mode summary
+show ap module summary
+show ap packet-dump status
+show ap prefer-mode stats
+show ap retransmit
+show ap stats
+show ap summary
+show ap tcp-mss-adjust
+show ap wlan
+show assisted-roaming
+show atf config
+show atf statistics ap
+show auth-list
+show avc applications
+show avc profile
+show avc statistics application
+show avc statistics client
+show avc statistics guest-lan
+show avc statistics remote-lan
+show avc statistics top-apps
+show avc statistics wlan
+show boot
+show band-select
+show buffers
+show cac voice stats
+show cac voice summary
+show cac video stats
+show cac video summary
+show call-control ap
+show call-control client
+show call-home summary
+show capwap reap association
+show capwap reap status
+show cdp
+show certificate compatibility
+show certificate lsc
+show certificate ssc
+show certificate summary
+show client ap
+show client calls
+show client ccx client-capability
+show client ccx frame-data
+show client ccx last-response-status
+show client ccx last-test-status
+show client ccx log-response
+show client ccx manufacturer-info
+show client ccx operating-parameters
+show client ccx profiles
+show client ccx results
+show client ccx rm
+show client ccx stats-report
+show client detail
+show client location-calibration summary
+show client probing
+show client roam-history
+show client summary
+show client summary guest-lan
+show client tsm
+show client username
+show client voice-diag
+show client wlan
+show cloud-services cmx summary
+show cloud-services cmx statistics
+show cts ap
+show cts environment-data
+show cts pacs
+show cts policy
+show cts sgacl
+show cts summary
+show cts sxp
+show coredump summary
+show country
+show country channels
+show country supported
+show cpu
+show custom-web
+show database summary
+show dhcp
+show dhcp proxy
+show dhcp timeout
+show dtls connections
+show exclusionlist
+show fabric summary
+show flexconnect acl detailed
+show flexconnect acl summary
+show flexconnect group detail
+show flexconnect group summary
+show flexconnect office-extend
+show flow exporter
+show flow monitor summary
+show guest-lan
+show icons summary
+show ike
+show interface summary
+show interface detailed
+show interface group
+show invalid-config
+show inventory
+show IPsec
+show ipv6 acl
+show ipv6 summary
+show icons file-info
+show ipv6 acl cpu
+show ipv6 acl detailed
+show ipv6 neighbor-binding
+show ipv6 ra-guard
+show ipv6 route summary
+show known ap
+show l2tp
+show lag eth-port-hash
+show lag ip-port-hash
+show lag summary
+show ldap
+show ldap statistics
+show ldap summary
+show license all
+show license capacity
+show license detail
+show license expiring
+show license evaluation
+show license feature
+show license file
+show license handle
+show license image-level
+show license in-use
+show license permanent
+show license status
+show license statistics
+show license summary
+show license udi
+show license usage
+show load-balancing
+show local-auth config
+show local-auth statistics
+show local-auth certificates
+show logging
+show logging config-history
+show logging last-reset
+show logging flags
+show loginsession
+show macfilter
+show mdns ap summary
+show mdns domain-name-ip summary
+show mdns profile
+show mdns service
+show media-stream client
+show media-stream group detail
+show media-stream group summary
+show mesh ap
+show mesh astools stats
+show mesh backhaul
+show mesh bgscan
+show mesh cac
+show mesh client-access
+show mesh config
+show mesh env
+show mesh neigh
+show mesh path
+show mesh per-stats
+show mesh public-safety
+show mesh queue-stats
+show mesh security-stats
+show mesh stats
+show mgmtuser
+show mobility anchor
+show mobility ap-list
+show mobility foreign-map
+show mobility group member
+show mobility oracle
+show mobility statistics
+show mobility summary
+show msglog
+show nac statistics
+show nac summary
+show network
+show network summary
+show netuser
+show netuser guest-roles
+show network multicast mgid detail
+show network multicast mgid summary
+show network summary
+show nmsp notify-interval summary
+show nmsp status
+show nmsp statistics
+show nmsp subscription
+show nmsp subscription summary
+show ntp-keys
+show opendns summary
+show pmk-cache
+show pmipv6 domain
+show pmipv6 mag bindings
+show pmipv6 mag globals
+show pmipv6 mag stats
+show pmipv6 profile summary
+show policy
+show port
+show profiling policy summary
+show qos
+show qos qosmap
+show queue-info
+show radius acct detailed
+show radius acct statistics
+show radius auth detailed
+show radius auth statistics
+show radius avp-list
+show radius summary
+show redundancy interfaces
+show redundancy latency
+show redundancy mobilitymac
+show redundancy peer-route summary
+show redundancy peer-system statistics
+show redundancy statistics
+show redundancy summary
+show redundancy timers
+show remote-lan
+show reset
+show rfid client
+show rfid config
+show rfid detail
+show rfid summary
+show rf-profile summary
+show rf-profile details
+show rogue adhoc custom summary
+show rogue adhoc detailed
+show rogue adhoc friendly summary
+show rogue adhoc malicious summary
+show rogue adhoc unclassified summary
+show rogue adhoc summary
+show rogue ap clients
+show rogue ap custom summary
+show rogue ap detailed
+show rogue ap friendly summary
+show rogue ap malicious summary
+show rogue ap summary
+show rogue ap unclassified summary
+show rogue auto-contain
+show rogue client detailed
+show rogue client summary
+show rogue ignore-list
+show rogue rule detailed
+show rogue rule summary
+show route kernel
+show route summary
+show rules
+show run-config
+show run-config startup-commands
+show serial
+show sessions
+show snmpcommunity
+show snmpengineID
+show snmptrap
+show snmpv3user
+show snmpversion
+show spanningtree port
+show spanningtree switch
+show stats port
+show stats switch
+show switchconfig
+show sysinfo
+show tacacs acct statistics
+show tacacs auth statistics
+show tacacs summary
+show tech-support
+show time
+show trapflags
+show traplog
+show tunnel profile summary
+show tunnel profile-detail
+show tunnel eogre-summary
+show tunnel eogre-statistics
+show tunnel eogre-domain-summary
+show tunnel eogre gateway
+show watchlist
+show wlan
+show wps ap-authentication summary
+show wps cids-sensor
+show wps mfp
+show wps shun-list
+show wps signature detail
+show wps signature events
+show wps signature summary
+show wps summary
+show wps wips statistics
+show wps wips summary
